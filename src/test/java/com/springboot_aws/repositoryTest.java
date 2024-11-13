@@ -12,6 +12,6 @@ public class repositoryTest {
     public void testInsert(){
         int a = 3;
 
-        assertEquals(a, 3);
+        assertEquals(a, 5);
     }
 }
