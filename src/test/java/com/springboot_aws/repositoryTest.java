@@ -10,8 +10,8 @@ public class repositoryTest {
 
     @Test
     public void testInsert(){
-        int a = 3;
+        int a = 5;
 
-        assertEquals(a, 3);
+        assertEquals(a, 5);
     }
 }
